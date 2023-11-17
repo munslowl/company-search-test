@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "company_number": "111111",
+      "company_type": "ltd",
+      "title": "111111 Acme Vermin Limited",
+      "company_status": "active",
+      "date_of_creation": "2008-02-11",
+      "address": {
+        "locality": "Leeds",
+        "postal_code": "AB1 2CD",
+        "premises": "Some room",
+        "address_line1": null,
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "SMITH, John",
+          "officer_role": "secretary",
+          "appointed_on": "2008-02-11",
+          "address": {
+            "locality": "London",
+            "postal_code": "AB1 2CD",
+            "premises": "5",
+            "address_line1": null,
+            "country": "England"
+          }
+        },
+        {
+          "name": "JONES, Jemima",
+          "officer_role": "director",
+          "appointed_on": "2008-02-11",
+          "address": {
+            "locality": "Glasgow",
+            "postal_code": "3XY 3GD",
+            "premises": "5",
+            "address_line1": null,
+            "country": "Scotland"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "222222",
+      "company_type": "ltd",
+      "title": "222222 Acme Vermin Limited",
+      "company_status": "active",
+      "date_of_creation": "2008-04-11",
+      "address": {
+        "locality": "Leeds",
+        "postal_code": "AB1 2CD",
+        "premises": "Some room",
+        "address_line1": null,
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "WILLIAMS, Toby",
+          "officer_role": "secretary",
+          "appointed_on": "2008-02-11",
+          "address": {
+            "locality": "Cardif",
+            "postal_code": "XX1 3YY",
+            "premises": "5",
+            "address_line1": null,
+            "country": "Wales"
+          }
+        }
+      ]
+    }
+  ],
+  "total_results": 2
+}

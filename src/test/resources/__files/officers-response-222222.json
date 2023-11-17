@@ -1,0 +1,30 @@
+{
+  "etag": "e6511f821ba7d9f130553dd6f4ca5503f92d413d",
+  "links": {
+    "self": "/company/222222/officers"
+  },
+  "kind": "officer-list",
+  "items_per_page": 35,
+  "items": [
+    {
+      "address": {
+        "premises": "5",
+        "postal_code": "XX1 3YY",
+        "country": "Wales",
+        "locality": "Cardif",
+        "address_line_1": "Hallow Street"
+      },
+      "name": "WILLIAMS, Toby",
+      "appointed_on": "2008-02-11",
+      "officer_role": "secretary",
+      "links": {
+        "officer": {
+          "appointments": "/officers/t3kASKOIrQoe-k_JpPyJ7LYEAqE/appointments"
+        }
+      }
+    }
+  ],
+  "active_count": 1,
+  "total_results": 1,
+  "resigned_count": 1
+}

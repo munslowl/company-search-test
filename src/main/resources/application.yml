@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: 'company-search'
+
+  cloud:
+    openfeign:
+      client:
+        config:
+          truClient:
+            defaultRequestHeaders:
+              'x-api-key':
+                - 'KjTFKEGi7R11DuvLSPaV16IJLfTPCkKV3qowOXtE'
+
+
+tru.url: 'https://exercise.trunarrative.cloud/TruProxyAPI/rest/Companies/v1/'
+
+server.port: 8081

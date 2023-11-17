@@ -1,0 +1,15 @@
+spring:
+  cloud:
+    openfeign:
+      client:
+        config:
+          truClient:
+            defaultRequestHeaders:
+              'x-api-key':
+                - 'test-api-key'
+
+
+
+tru.url: 'http://localhost:${wiremock.server.port}'
+
+
